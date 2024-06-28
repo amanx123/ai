@@ -1,4 +1,4 @@
-## 🤖 Ultimate resources to master AI 📚 in 2024 and beyond
+##🤖 Ultimate resources to master AI 📚 in 2024 and beyond
 
 This is an open-source list of the best AI tutorials & tools for beginners and experienced developers alike.
 ---
