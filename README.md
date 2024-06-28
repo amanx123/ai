@@ -12,7 +12,7 @@ Happy building. Let's use AI to make the world a little bit better ✌️
 
 ## 🛠️ Everyday AI Developer Tools
 - ChatGPT code interpreter
-- BardAI by Google
+- Gemini by Google
 - GitHub Co-Pilot
 
 ## 💬 Chatbots
