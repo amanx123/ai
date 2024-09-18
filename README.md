@@ -4,7 +4,7 @@ This is an open-source list of the best AI tutorials & tools for beginners and e
 ---
 Who am I? Aman here 🤠 I'm an indie Full Stack developer, Ai enthusiast and entrepreneur building cool stuff and AI products in public.
 
-To add a resource or job listing, submit a PR to this repo or DM me [on Twitter/X](https://x.com/amanagarwalx).
+To add a resource or job listing, submit a PR to this repo or DM me [on Twitter/X](https://x.com/amanagarwalx9).
 
 Happy hacking. Let's use AI to make the world a little bit better ✌️
 
