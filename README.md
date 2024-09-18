@@ -94,7 +94,3 @@ Happy hacking. Let's use AI to make the world a little bit better ✌️
 - [Harvard CS50's Introduction to Artificial Intelligence with Python ](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python?webview=false&campaign=CS50%27s+Introduction+to+Artificial+Intelligence+with+Python&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fartificial-intelligence)
 - [MIT Machine Learning with Python: from Linear Models to Deep Learning ](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to?index=product&objectID=course-4c70ad9b-9602-49af-bf00-83fa4bf47708&webview=false&campaign=Machine+Learning+with+Python%3A+from+Linear+Models+to+Deep+Learning&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fartificial-intelligence)
 - [Stanford CS221: Artificial Intelligence: Principles and Techniques ](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
-
-### 👷 Job Openings
-<b>Coming soon... Contact me to list an AI-related role.</b>
-
