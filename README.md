@@ -9,13 +9,16 @@ To add a resource or job listing, submit a PR to this repo or DM me [on Twitter/
 Happy hacking. Let's use AI to make the world a little bit better ✌️
 
 ### 🛠️ Everyday AI Developer Tools
+- [Claude by Anthropic](https://claude.ai)
 - [ChatGPT code interpreter](https://chat.openai.com)
 - [Gemini by Google](https://gemini.google.com/)
+- [Meta Ai](https://www.meta.ai/)
 - [Perplexity Ai](https://www.perplexity.ai/)
+- [Cursor IDE](https://www.cursor.com/)
 - [Codeium Ai](https://codeium.com/)
 - [GitHub Co-Pilot](https://github.com/features/copilot)
 
-### 💬 Chatbots
+### 💬 Ai Chatbots
 - [OpenAI API ](https://platform.openai.com/docs/guides/gpt)
 - [Beginners Guide to GPT4 API & ChatGPT 3.5 Turbo API Tutorial ](https://www.youtube.com/watch?v=LX_DXLlaymg)
 - [How to build your own AI with ChatGPT API ](https://www.youtube.com/watch?v=4qNwoAAfnk4)
@@ -23,7 +26,7 @@ Happy hacking. Let's use AI to make the world a little bit better ✌️
 - [GPT-4 - How does it work, and how do I build apps with it? Harvard CS50 ](https://www.youtube.com/watch?v=vw-KWfKwvTQ)
 - [AI Companion App Repo ](https://github.com/a16z-infra/companion-app)
 
-### 🕵️‍♂️ Agents
+### 🕵️‍♂️ AI Agents using LLM's
 - [BabyAGI ](https://github.com/yoheinakajima/babyagi)
 - [AutoGPT ](https://github.com/Significant-Gravitas/Auto-GPT)
 - [GPT-Engineer ](https://github.com/AntonOsika/gpt-engineer)
@@ -34,8 +37,9 @@ Happy hacking. Let's use AI to make the world a little bit better ✌️
 - [Lanchain tutorials ](https://github.com/gkamradt/langchain-tutorials)
 - [Langchain example projects ](https://github.com/hwchase17/langchain)
 - [Llamaindex](https://www.llamaindex.ai/)
+- [Vercel AI SDK](https://sdk.vercel.ai/docs/introduction)
 
-### 🖼️ Stable Diffusion
+### 🖼️ Ai Image Generation
 - [How AI Image Generators Work ](https://www.youtube.com/watch?v=1CIpzeNxIhU)
 - [Stable Diffusion repo ](https://github.com/CompVis/stable-diffusion)
 - [Stable Diffusion Tutorial ](https://www.youtube.com/watch?v=DHaL56P6f5M)
@@ -47,6 +51,7 @@ Happy hacking. Let's use AI to make the world a little bit better ✌️
 - [CivitAI Models ](https://civitai.com/)
 - [Hugging Face Models ](https://huggingface.co/models?pipeline_tag=text-to-image&sort=downloads)
 - [Intro to LoRA Models ](https://www.youtube.com/watch?v=ZHVdNeHZPdc)
+- [FLUX.1 Image Models](https://blackforestlabs.ai/)
 
 ### 🤖 LLMs
 - [GPT4 ](https://platform.openai.com/docs/guides/gpt)
@@ -90,7 +95,7 @@ Happy hacking. Let's use AI to make the world a little bit better ✌️
 - [Tutorial: How the VIRAL AI Drake Song "Heart On My Sleeve" was Made ](https://www.youtube.com/watch?v=pkbQV71ZvK4)
 - [Tutorial: Make an AI Kanye Song ](https://www.youtube.com/watch?v=2sMpIXQcSCA)
 
-### 📚 Online courses
+### 📚 Online courses (Complete AI/ML zero to hero)
 - [Harvard CS50's Introduction to Artificial Intelligence with Python ](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python?webview=false&campaign=CS50%27s+Introduction+to+Artificial+Intelligence+with+Python&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fartificial-intelligence)
 - [MIT Machine Learning with Python: from Linear Models to Deep Learning ](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to?index=product&objectID=course-4c70ad9b-9602-49af-bf00-83fa4bf47708&webview=false&campaign=Machine+Learning+with+Python%3A+from+Linear+Models+to+Deep+Learning&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fartificial-intelligence)
 - [Stanford CS221: Artificial Intelligence: Principles and Techniques ](https://www.youtube.com/watch?v=J8Eh7RqggsU&list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
